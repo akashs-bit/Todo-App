@@ -15,7 +15,7 @@ This is an interactive and user-friendly Todo List application built using React
 
 ### 🚀 Live Demo
 
-[Click here to view the live app](https://akashs-bit.github.io/Todo_List_App/)
+[Click here to view the live app](https://akashs-bit.github.io/Todo-App/)
 
 
 ---
